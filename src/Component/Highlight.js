@@ -5,10 +5,10 @@ function Highlight() {
         <div class="highlight-blue">
             <div class="container">
                 <div class="intro">
-                    <h2 class="text-center">Highlight</h2>
-                    <p class="text-center">Nunc luctus in metus eget fringilla. Aliquam sed justo ligula. Vestibulum nibh erat, pellentesque ut laoreet vitae. </p>
+                    <h2 class="text-center">Trouble Taxing & Accounting </h2>
+                    <p class="text-center"> Click Below Button and let one of our Associate resolve your queries </p>
                 </div>
-                <div class="buttons"><a class="btn btn-primary" role="button" href="#">Primary</a></div>
+                <div class="buttons"><a class="btn btn-primary" style={{background: "black", color:"white"}} role="button" href="#">Contact Us</a></div>
             </div>
         </div>
     );
