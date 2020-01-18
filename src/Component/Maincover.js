@@ -3,7 +3,7 @@ import React from 'react';
 function Maincover() {
   return (
     <div class="parallax">
-      <div class="container d-flex justify-content-center align-items-center parallax-content" style={{ height: "100vh" }}>
+      <div class="container d-flex justify-content-center align-items-center parallax-content" style={{ height: "100vh", position:"absolute"}}>
         <div class="col-12 col-md-10 col-lg-8 d-flex justify-content-center flex-column">
           <div class="caption v-middle text-center">
             <h1 class="cd-headline clip">
@@ -17,11 +17,12 @@ function Maincover() {
           </div>
           <h1></h1>
         </div>
-        <img src={require("./../Asset/MainBackground.jpg")} />
+        
       </div>
       <div
         class="parallax-placeholder">
       </div>
+      <img style={{width:"100%", height:"768px"}} src={require("./../Asset/MainBackground.jpg")} />
     </div>
   );
 }
