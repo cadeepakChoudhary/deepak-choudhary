@@ -27,7 +27,15 @@
 .App-link {
   color: #61dafb;
 }
-
+p.description {
+  color: #000 !important;
+}
+.Heading-service {
+  color: #FFF !important;
+}
+.features-boxed {
+  background-color: #000 !important;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
