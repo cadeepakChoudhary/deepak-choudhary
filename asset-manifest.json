@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.6744dbf8.chunk.css",
-    "main.js": "/my-app/static/js/main.a1741938.chunk.js",
-    "main.js.map": "/my-app/static/js/main.a1741938.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.d7a1f234.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.d7a1f234.js.map",
-    "static/js/2.63554726.chunk.js": "/my-app/static/js/2.63554726.chunk.js",
-    "static/js/2.63554726.chunk.js.map": "/my-app/static/js/2.63554726.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.e614ae086b2386a6da345c729e0a5c7d.js": "/my-app/precache-manifest.e614ae086b2386a6da345c729e0a5c7d.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.6744dbf8.chunk.css.map": "/my-app/static/css/main.6744dbf8.chunk.css.map",
-    "static/js/2.63554726.chunk.js.LICENSE": "/my-app/static/js/2.63554726.chunk.js.LICENSE",
-    "static/media/Deepak.jpg": "/my-app/static/media/Deepak.ef063422.jpg",
-    "static/media/MainBackground.jpg": "/my-app/static/media/MainBackground.70d1c2da.jpg",
-    "static/media/ca-logo.png": "/my-app/static/media/ca-logo.fa7b31a0.png",
-    "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/deepak-choudhary/static/css/main.6744dbf8.chunk.css",
+    "main.js": "/deepak-choudhary/static/js/main.4ff867c9.chunk.js",
+    "main.js.map": "/deepak-choudhary/static/js/main.4ff867c9.chunk.js.map",
+    "runtime-main.js": "/deepak-choudhary/static/js/runtime-main.858d8b1d.js",
+    "runtime-main.js.map": "/deepak-choudhary/static/js/runtime-main.858d8b1d.js.map",
+    "static/js/2.63554726.chunk.js": "/deepak-choudhary/static/js/2.63554726.chunk.js",
+    "static/js/2.63554726.chunk.js.map": "/deepak-choudhary/static/js/2.63554726.chunk.js.map",
+    "index.html": "/deepak-choudhary/index.html",
+    "precache-manifest.03530eb4cb53e01713ee9d23466d415c.js": "/deepak-choudhary/precache-manifest.03530eb4cb53e01713ee9d23466d415c.js",
+    "service-worker.js": "/deepak-choudhary/service-worker.js",
+    "static/css/main.6744dbf8.chunk.css.map": "/deepak-choudhary/static/css/main.6744dbf8.chunk.css.map",
+    "static/js/2.63554726.chunk.js.LICENSE": "/deepak-choudhary/static/js/2.63554726.chunk.js.LICENSE",
+    "static/media/Deepak.jpg": "/deepak-choudhary/static/media/Deepak.ef063422.jpg",
+    "static/media/MainBackground.jpg": "/deepak-choudhary/static/media/MainBackground.70d1c2da.jpg",
+    "static/media/ca-logo.png": "/deepak-choudhary/static/media/ca-logo.fa7b31a0.png",
+    "static/media/logo.svg": "/deepak-choudhary/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7a1f234.js",
+    "static/js/runtime-main.858d8b1d.js",
     "static/js/2.63554726.chunk.js",
     "static/css/main.6744dbf8.chunk.css",
-    "static/js/main.a1741938.chunk.js"
+    "static/js/main.4ff867c9.chunk.js"
   ]
 }
